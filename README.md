@@ -16,5 +16,5 @@ Story: As a university student I want to buy a new laptop for my upcoming semest
 5. User sees and clicks on preferred laptop.
 6. User looks over laptop information and clicks "Add to Cart". Redirect: to cart page.
 7. User clicks "Continue to Checkout". Redirect: to payment/address info.
-8. User fills out info and clicks "Place Order" button.
+8. User fills out forms and clicks "Place Order" button.
 9. User is sent to page that confirms the user has placed their order.
